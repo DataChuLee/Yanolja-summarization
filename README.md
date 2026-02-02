@@ -27,6 +27,7 @@
 - 후기 글이 너무 적을 경우 요약 결과 없음 처리 / 품질 이슈 가능성
   - 후기는 3개 이상
   - 후기 글의 합이 90자 이상
+
 ### 문제 조건 3
 - 후기가 많을 경우 (수치화 X)
 - 모델의 Context Window가 감당 가능한 후기 수
@@ -35,5 +36,13 @@
   - 후기가 많을 경우, 최근 작성 기준으로 우선 요약
 
 ## 데이터 확보 방법
+- 야놀자 웹 크롤링
+
 ## 모델 고도화 및 평가
+1. 조건 명시 (Prompt Engineering)
+2. 입력 데이터의 품질 증가
+3. Few Shot Prompt Engineering
+
 ## GUI 기반 데모
+<img width="1555" height="588" alt="image" src="https://github.com/user-attachments/assets/1dd8a929-0a33-4853-aff5-1cd97674b3be" />
+
