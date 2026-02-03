@@ -43,6 +43,6 @@
 2. 입력 데이터의 품질 증가
 3. Few Shot Prompt Engineering
 
-## GUI 기반 데모
+## Demo
 <img width="1555" height="588" alt="image" src="https://github.com/user-attachments/assets/1dd8a929-0a33-4853-aff5-1cd97674b3be" />
 
